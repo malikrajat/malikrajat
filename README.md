@@ -73,6 +73,14 @@ I would like to add you to my professional network on the GITHUB.
 
   <!--END_SECTION:endorsements-->
 
+<br>
+
+## 📣 Some Good quote before you go?
+
+> “Whether you think you can or think you can’t, you’re right.”
+> “We generate fears while we sit. We overcome them by action.” 
+> “The only limit to our realization of tomorrow will be our doubts of today.”
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
