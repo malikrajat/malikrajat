@@ -86,11 +86,14 @@ I would like to add you to my professional network on the GITHUB.
  <img src=https://avatars1.githubusercontent.com/u/22770745?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 />
  <img src=https://avatars1.githubusercontent.com/u/22770725?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 />
  <img src=https://avatars1.githubusercontent.com/u/22770715?u=c7c8d8e372a0633ff094874c59beb2f98813624f&v=4&s=20 height=20 />
- <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
- <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
- <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
- <img src=https://avatars2.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
+ <img src=https://avatars2.githubusercontent.com/u/6764951?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
+ <img src=https://avatars2.githubusercontent.com/u/6764952?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
+ <img src=https://avatars2.githubusercontent.com/u/6764953?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
+ <img src=https://avatars2.githubusercontent.com/u/6764954?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 />
  <img src=https://avatars1.githubusercontent.com/u/45873074?u=c3ec9fa6c9669635d4bf31067d9eac86d351eb3a&v=4&s=20 height=20 />
+ <img src=https://avatars1.githubusercontent.com/u/5568871?u=9f445b0a35c59b56f68052bc9b1df3707b4549da&v=4&s=20 height=20 />
+<img src=https://avatars3.githubusercontent.com/u/24643979?u=fe9d7c6bddd24126607a03e03807a0a863b2c909&v=4&s=20 height=20 />
+<img src=https://avatars1.githubusercontent.com/u/10224804?u=f21218967e9775baae828b25a09cf1539cb46aad&v=4&s=20 height=20 />
  </li>
 
 <li>
@@ -196,9 +199,6 @@ I would like to add you to my professional network on the GITHUB.
 <img src=https://avatars2.githubusercontent.com/u/3524688?u=80eb34d651fd46947487d79abe8617bf5338f54b&v=4&s=20 height=20 />
 <img src=https://avatars2.githubusercontent.com/u/3524688?u=80eb34d651fd46947487d79abe8617bf5338f54b&v=4&s=20 height=20 />
 <img src=https://avatars0.githubusercontent.com/u/16005567?u=5f71bda3f9007c1f8efb56c12c6a4ac8da4123e8&v=4&s=20 height=20 />
-<img src=https://avatars0.githubusercontent.com/u/16005567?u=5f71bda3f9007c1f8efb56c12c6a4ac8da4123e8&v=4&s=20 height=20 />
-<img src=https://avatars0.githubusercontent.com/u/4047597?u=d369a027cc44c560aae8e6702d06f4b9b60e63a6&v=4&s=20 height=20 />
-<img src=https://avatars3.githubusercontent.com/u/15695301?u=69e79bb2d243c7ce5d098c237cf5135253ee1e76&v=4&s=20 height=20 />
 </li>
 
 <li>
@@ -259,9 +259,6 @@ I would like to add you to my professional network on the GITHUB.
 <img src=https://avatars0.githubusercontent.com/u/27928708?u=ef9b6267f3a5090243c9704c138305ca1c3b8263&v=4&s=20 height=20 />
 <img src=https://avatars2.githubusercontent.com/u/8960757?u=5e1db01bd94c116d1b42802156562637d87d2701&v=4&s=20 height=20 />
 <img src=https://avatars2.githubusercontent.com/u/2502947?u=eb345767686e9b8692c6d76955650a41e6e80cf3&v=4&s=20 height=20 />
-<img src=https://avatars1.githubusercontent.com/u/5568871?u=9f445b0a35c59b56f68052bc9b1df3707b4549da&v=4&s=20 height=20 />
-<img src=https://avatars3.githubusercontent.com/u/24643979?u=fe9d7c6bddd24126607a03e03807a0a863b2c909&v=4&s=20 height=20 />
-<img src=https://avatars1.githubusercontent.com/u/10224804?u=f21218967e9775baae828b25a09cf1539cb46aad&v=4&s=20 height=20 />
 </li>
 
  <li>
@@ -332,6 +329,9 @@ I would like to add you to my professional network on the GITHUB.
 <img src=https://avatars3.githubusercontent.com/u/53856673?u=bda5598fc0b95f42f67ffddd6bc14326c5a5bf28&v=4&s=20 height=20 />
 <img src=https://avatars2.githubusercontent.com/u/9262982?u=2403fb9ed15258833c48978f57c48479fe9172b6&v=4&s=20 height=20 />
 <img src=https://avatars3.githubusercontent.com/u/10362927?u=2bd634d77cfe59ddf012d192335efb626618efae&v=4&s=20 height=20 />
+<img src=https://avatars0.githubusercontent.com/u/16005567?u=5f71bda3f9007c1f8efb56c12c6a4ac8da4123e8&v=4&s=20 height=20 />
+<img src=https://avatars0.githubusercontent.com/u/4047597?u=d369a027cc44c560aae8e6702d06f4b9b60e63a6&v=4&s=20 height=20 />
+<img src=https://avatars3.githubusercontent.com/u/15695301?u=69e79bb2d243c7ce5d098c237cf5135253ee1e76&v=4&s=20 height=20 />
 </li>
 
 <li>
@@ -344,6 +344,7 @@ I would like to add you to my professional network on the GITHUB.
 <img src=https://avatars3.githubusercontent.com/u/53856674?u=bda5598fc0b95f42f67ffddd6bc14326c5a5bf28&v=4&s=20 height=20 />
 <img src=https://avatars2.githubusercontent.com/u/9262982?u=2403fb9ed15258833c48978f57c48479fe9172b6&v=4&s=20 height=20 />
 <img src=https://avatars3.githubusercontent.com/u/10362927?u=2bd634d77cfe59ddf012d192335efb626618efae&v=4&s=20 height=20 />
+
 </li>
 
 <li>
