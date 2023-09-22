@@ -30,21 +30,6 @@
 [![Linkedin: errajatmalik](https://img.shields.io/badge/-errajatmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/errajatmalik/)](https://www.linkedin.com/in/errajatmalik/)
 [![GitHub malikrajat](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/malikrajat)
 
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img height="20" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.f901b1016d.jpg">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="20" src="https://cdn.iconscout.com/icon/free/png-256/cakephp-3-1175050.png">
-<img height="20" src="https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-boot-dev-pack/0.1.0/1629148309593/Microsoft.VisualStudio.Services.Icons.Default">
-<img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-linux-sbc-bash-scripting-1.png">
-</code>
 
 <a href="https://github.com/malikrajat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrajat&langs_count=7&theme=light&hide_langs_below=1" />
