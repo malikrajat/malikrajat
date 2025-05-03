@@ -22,7 +22,7 @@
 -   🌱 I’m currently learning more about TensorFlow.
 -   🤔 I’m looking for help with object data modeling.
 -   💬 Ask me about Javascript or any tech related stuff.
--   📫 How to reach me: [Twitter - @er_rajatmalik](https://twitter.com/er_rajatmalik) , [Linkdein - @errajatmalik](https://www.linkedin.com/in/errajatmalik/)
+-   📫 How to reach me: [Twitter - @er_rajatmalik](https://twitter.com/er_rajatmalik) , [Linkdein - @errajatmalik](https://www.linkedin.com/in/errajatmalik/), [Medium - @codewithrajat](https://medium.com/@codewithrajat)
 -   😄 Pronouns: He/His.
 -   ⚡ Fun fact: I spend most of my time learning new tech or watching movies :).
 
