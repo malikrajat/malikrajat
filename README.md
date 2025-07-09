@@ -23,7 +23,7 @@
 <a href="https://dev.to/codewithrajat">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Rajat's dev.to Blogs" height="20px" width="30px">
 </a>
-
+    <br/>
 </div>
 
 -   🔭 I’m currently working on open source contribution and Article writing.
@@ -34,10 +34,13 @@
 -   😄 Pronouns: He/His.
 -   ⚡ Fun fact: I spend most of my time learning new tech or watching movies :).
 
+<br/>
+
 [![Twitter: er_rajatmalik](https://img.shields.io/twitter/follow/er_rajatmalik?style=social)](https://twitter.com/er_rajatmalik)
 [![Linkedin: errajatmalik](https://img.shields.io/badge/-errajatmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/errajatmalik/)](https://www.linkedin.com/in/errajatmalik/)
 [![GitHub malikrajat](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/malikrajat)
 
+<br/>
 
 <div>
 
@@ -49,6 +52,8 @@
 <img width="725" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrajat&theme=light" alt="Rajat's streak stats"/>
 
 </div>
+
+<br/>
 
 ### Skills & Endorsements
 
