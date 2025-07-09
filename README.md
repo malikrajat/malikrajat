@@ -19,10 +19,10 @@
 </a>
 
 <a href="https://dev.to/codewithrajat">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Rajat's dev.to Blogs" height="20px" width="22px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Rajat's dev.to Blogs" height="20px" width="30px">
 </a>
 
-
+<br/>
 <br/>
 
 -   🔭 I’m currently working on Java SpringBoot and Tenserflow for object detection model.
