@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="malikrajat" /> </p>
 
+<div style="padding-bottom: 20px">
+
 <a href="https://www.linkedin.com/in/errajatmalik/">
   <img align="left" alt="Rajat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,12 +24,11 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Rajat's dev.to Blogs" height="20px" width="30px">
 </a>
 
-<br/>
-<br/>
+</div>
 
--   🔭 I’m currently working on Java SpringBoot and Tenserflow for object detection model.
--   🌱 I’m currently learning more about TensorFlow.
--   🤔 I’m looking for help with object data modeling.
+-   🔭 I’m currently working on open source contribution and Article writing.
+-   🌱 I’m currently learning more about AI Agent.
+-   🤔 I’m looking for help with AI Agents Architecture.
 -   💬 Ask me about Javascript or any tech related stuff.
 -   📫 How to reach me: [Twitter - @er_rajatmalik](https://twitter.com/er_rajatmalik) , [Linkdein - @errajatmalik](https://www.linkedin.com/in/errajatmalik/), [Medium - @codewithrajat](https://medium.com/@codewithrajat)
 -   😄 Pronouns: He/His.
@@ -38,12 +39,16 @@
 [![GitHub malikrajat](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/malikrajat)
 
 
-<a href="https://github.com/malikrajat">
-    <img alt="image" align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrajat&langs_count=3&theme=light&hide_langs_below=1&" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrajat&show_icons=true&theme=light&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=false" alt="Rajat's github stats"/>    
-    <img width="593" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrajat&theme=light" alt="Rajat's streak stats"/>
-</a>
-<!--START_SECTION:endorsements-->
+<div>
+
+<img alt="image" align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrajat&langs_count=3&theme=light&hide_langs_below=1&" />
+
+[//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrajat&show_icons=true&theme=light&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=false" alt="Rajat's github stats"/>)
+<img width="436" align="center" src="https://github-readme-stats.vercel.app/api?username=malikrajat&show_icons=true&theme=light&line_height=27" alt="Rajat's github stats"/>
+
+<img width="725" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrajat&theme=light" alt="Rajat's streak stats"/>
+
+</div>
 
 ### Skills & Endorsements
 
