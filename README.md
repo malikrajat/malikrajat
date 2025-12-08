@@ -1,61 +1,289 @@
-## Hola, I'm [Rajat !](https://www.linkedin.com/in/errajatmalik/) 👋
+# 👋 Hola! I'm [Rajat Malik](https://www.linkedin.com/in/errajatmalik/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="malikrajat" /> </p>
+<div align="center">
 
-<div style="padding-bottom: 20px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Frontend+Architect+%7C+15%2B+Years+Experience;Speaker+%7C+Writer+%7C+Open+Source+Contributor;Turning+Ideas+into+Scalable+Digital+Experiences)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/errajatmalik/">
-  <img align="left" alt="Rajat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/errajatmalik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/er_rajatmalik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://medium.com/@codewithrajat"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://dev.to/codewithrajat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://rajatmalik.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<a href="https://twitter.com/er_rajatmalik">
-  <img align="left" alt="Rajat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://medium.com/@codewithrajat/">
-  <img align="left" alt="Rajat's Medium Blogs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<a href="https://malikrajat.github.io">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Rajat's dev.to Blogs" height="20px" width="22px">
-</a>
-
-<a href="https://dev.to/codewithrajat">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Rajat's dev.to Blogs" height="20px" width="30px">
-</a>
-    <br/>
-</div>
-
-<br/>
-
--   🔭 I’m currently working on open source contribution and Article writing.
--   🌱 I’m currently learning more about AI Agent.
--   🤔 I’m looking for help with AI Agents Architecture.
--   💬 Ask me about Javascript or any tech related stuff.
--   📫 How to reach me: [Twitter - @er_rajatmalik](https://twitter.com/er_rajatmalik) , [Linkdein - @errajatmalik](https://www.linkedin.com/in/errajatmalik/), [Medium - @codewithrajat](https://medium.com/@codewithrajat)
--   😄 Pronouns: He/His.
--   ⚡ Fun fact: I spend most of my time learning new tech or watching movies :).
-
-<br/>
-
-[![Twitter: er_rajatmalik](https://img.shields.io/twitter/follow/er_rajatmalik?style=social)](https://twitter.com/er_rajatmalik)
-[![Linkedin: errajatmalik](https://img.shields.io/badge/-errajatmalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/errajatmalik/)](https://www.linkedin.com/in/errajatmalik/)
-[![GitHub malikrajat](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/malikrajat)
-
-<br/>
-
-<div>
-
-<img alt="image" align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikrajat&langs_count=3&theme=light&hide_langs_below=1&" />
-
-[//]: # (<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrajat&show_icons=true&theme=light&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=false" alt="Rajat's github stats"/>)
-<img width="436" align="center" src="https://github-readme-stats.vercel.app/api?username=malikrajat&show_icons=true&theme=light&line_height=27" alt="Rajat's github stats"/>
-
-<img width="725" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrajat&theme=light" alt="Rajat's streak stats"/>
+![Profile Views](https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic)
+[![GitHub followers](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/malikrajat)
+[![Years Badge](https://badges.pufler.dev/years/malikrajat)](https://badges.pufler.dev)
 
 </div>
 
+---
+
+## 🎯 The Impact at a Glance
+
+<table align="center">
+<tr>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/96/000000/clock.png" width="50"/><br>
+<b>15+ Years</b><br>
+Experience
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/96/000000/news.png" width="50"/><br>
+<b>100+</b><br>
+Articles
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/96/000000/package.png" width="50"/><br>
+<b>20</b><br>
+NPM Packages
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/96/000000/chrome.png" width="50"/><br>
+<b>5</b><br>
+Extensions
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="50"/><br>
+<b>2</b><br>
+Extensions
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/arcade/64/software-box.png" width="50"/><br>
+<b>1</b><br>
+Software
+</td>
+<td align="center" width="14%">
+<img src="https://img.icons8.com/fluency/96/000000/microphone.png" width="50"/><br>
+<b>3</b><br>
+Conf Talks
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Frontend Mastery
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikrajat&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikrajat&theme=github-compact&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FF6B35" alt="Activity Graph"/>
+</div>
+
+---
+
+<!-- ## 🏆 Achievements & Contributions -->
+
+<div align="left">
+<!-- 
+### 🎖️ GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=malikrajat&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+### 📦 Published Work
+
+| Category | Count | Description |
+|----------|-------|-------------|
+| 📝 **Technical Articles** | 100+ | In-depth tutorials, best practices, and insights |
+| 📦 **NPM Packages** | 20 | Production-ready libraries used by developers worldwide |
+| 🎨 **Chrome Extensions** | 5 | Productivity tools enhancing developer workflows |
+| 🔧 **VS Code Extensions** | 2 | Custom extensions for improved coding experience |
+| 🔧 **Software** | 1 | The JavaScript playground for your desktop |
+| 🎤 **Conference Talks** | 3 | National tech conferences sharing knowledge |
+
+</div>
+
+---
+
+<!-- ## 🎯 Featured Projects & Contributions
+
+<div align="center">
+
+<a href="https://github.com/malikrajat?tab=repositories&q=&type=source&language=typescript&sort=stargazers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikrajat&repo=your-popular-repo&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" />
+</a>
+
+</div> -->
+
+### 🌟 Areas of Expertise
+
+<table>
+<tr>
+<td width="33%" align="left">
+
+#### 🏗️ Architecture
+- Micro-frontends
+- Design Systems
+- Scalable Solutions
+- Performance Optimization
+
+</td>
+<td width="33%" align="leftt">
+
+#### 👥 Leadership
+- Team Management
+- Technical Mentoring
+- Code Reviews
+- Best Practices
+
+</td>
+<td width="33%" align="left">
+
+#### 🚀 Innovation
+- AI/ML Integration
+- Modern Frameworks
+- Developer Tools
+- Open Source
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📝 Latest Articles & Insights
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Check out my latest articles on [Medium](https://medium.com/@codewithrajat)
+- 💡 Technical deep-dives on [Dev.to](https://dev.to/codewithrajat)
+- 🎯 Tips and tutorials on [Personal Blog](https://malikrajat.github.io)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="left">
+
+## 🤝 Open to Collaboration
+
+<table align="center">
+<tr>
+<td>
+
+- 🎤 **Technical Speaking Engagements**
+- 🌟 **Open Source Contributions**
+- ✍️ **Technical Writing & Guest Posts**
+- 👨‍🏫 **Mentorship Programs**
+- 🏗️ **Consulting on Frontend Architecture**
+- 🎓 **Workshop & Training Sessions**
+
+</td>
+</tr>
+</table>
+
+<div align="left">
+
+💡 **"Code is poetry written in logic. Let's create something beautiful together!"**
+
+</div>
+
+---
+
+<div align="left">
+
+## 💭 Words to Code By
+
+> "Whether you think you can or think you can't, you're right."
+
+> "We generate fears while we sit. We overcome them by action."
+
+> "The only limit to our realization of tomorrow will be our doubts of today."
+</div>
+
+---
+
+## 📬 Get in Touch
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 💼 Professional
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.rajatmalik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/errajatmalik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajatmalik.dev)
+
+</td>
+<td align="center">
+
+### 🌍 Social
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/er_rajatmalik)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@er.rajatmalik)
+[![BlueSky](https://img.shields.io/badge/BlueSky-00A0DC?style=for-the-badge&logo=bluesky&logoColor=white)](http://devrajat.bsky.social)
+
+</td>
+<td align="center">
+
+### ✍️ Writing
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codewithrajat)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/codewithrajat)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codewithrajat.substack.com)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@codeswithrajat)
+
+</td>
+</tr>
+</table>
+
+
+</div>
+
+---
+
+## 🎨 Skills Endorsements
+
+<details>
+<summary>👥 <b>Community Recognition</b> (Click to expand)</summary>
+
 <br/>
+
+### TypeScript
+Endorsed by 114+ developers | [View Endorsements](https://github.com/malikrajat)
+
+### React
+Endorsed by 203+ developers | [View Endorsements](https://github.com/malikrajat)
+
+### Angular
+Endorsed by 323+ developers | [View Endorsements](https://github.com/malikrajat)
+
+### JavaScript
+Endorsed by 527+ developers | [View Endorsements](https://github.com/malikrajat)
+
+### Leadership & Mentoring
+Endorsed by 117+ developers | [View Endorsements](https://github.com/malikrajat)
 
 ### Skills & Endorsements
 
@@ -363,15 +591,44 @@ I would like to add you to my professional network on the GITHUB.
 
 </ul>
 
+</details>
 
-## 📣 some good quote before you go?
+---
 
--   “Whether you think you can or think you can’t, you’re right.”
--   “We generate fears while we sit. We overcome them by action.”
--   “The only limit to our realization of tomorrow will be our doubts of today.”
+
+<div align="left">
+
+### 🌟 Show Some Love
+
+If you find my work valuable, consider:
+- ⭐ Starring my repositories
+- 🔀 Forking interesting projects
+- 📝 Reading and sharing my articles
+- 💬 Opening discussions and issues
+- 🤝 Connecting on LinkedIn
+
+### 📊 Profile Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikrajat&theme=github_dark)
+
+---
+
+**💼 Currently:** Building the future of web development, one commit at a time.
+
+**🎯 Mission:** Empowering developers through code, content, and community.
+
+**⚡ Fun fact:** I spend most of my time learning new tech or watching movies... because a balanced dev is a better dev!
+
+---
 
 <div align="center">
 
 ### Show some ❤️ by starring some repositories!
 
 </div>
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
+
