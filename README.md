@@ -36,7 +36,7 @@ Articles
 </td>
 <td align="center" width="14%">
 <img src="https://img.icons8.com/fluency/96/000000/package.png" width="50"/><br>
-<b>20</b><br>
+<b>24+</b><br>
 NPM Packages
 </td>
 <td align="center" width="14%">
@@ -51,7 +51,7 @@ Extensions
 </td>
 <td align="center" width="14%">
 <img src="https://img.icons8.com/arcade/64/software-box.png" width="50"/><br>
-<b>1</b><br>
+<b>2</b><br>
 Software
 </td>
 <td align="center" width="14%">
@@ -117,10 +117,10 @@ Conf Talks
 | Category | Count | Description |
 |----------|-------|-------------|
 | 📝 **Technical Articles** | 100+ | In-depth tutorials, best practices, and insights |
-| 📦 **NPM Packages** | 20 | Production-ready libraries used by developers worldwide |
+| 📦 **NPM Packages** | 24+ | Production-ready libraries used by developers worldwide |
 | 🎨 **Chrome Extensions** | 5 | Productivity tools enhancing developer workflows |
 | 🔧 **VS Code Extensions** | 2 | Custom extensions for improved coding experience |
-| 🔧 **Software** | 1 | The JavaScript playground for your desktop |
+| 🔧 **Software** | 2 | The JavaScript playground for your desktop |
 | 🎤 **Conference Talks** | 3 | National tech conferences sharing knowledge |
 
 </div>
