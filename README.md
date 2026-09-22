@@ -8,18 +8,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Senior%20Lead%20Software%20Engineer%20at%20Siemens;Frontend%20Architect%20%7C%20AI%20%26%20Full-Stack%20Developer;Angular%20%26%20React%20%7C%20Node.js%20%7C%20Micro-Frontends;Speaker%20%7C%20Writer%20%7C%20Open%20Source%20Contributor;Turning%20Ideas%20into%20Scalable%20Digital%20Experiences)](https://git.io/typing-svg)
 
-<table align="center">
+<table align="" width="100%">
 <tr>
-<td align="center"><a href="https://www.linkedin.com/in/errajatmalik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
-<td align="center"><a href="https://twitter.com/er_rajatmalik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a></td>
-<td align="center"><a href="https://medium.com/@codewithrajat"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium"/></a></td>
-<td align="center"><a href="https://dev.to/codewithrajat"><img src="https://img.shields.io/badge/Dev.to-FFFFFF?style=for-the-badge&logo=devdotto&logoColor=000000" alt="Dev.to"/></a></td>
+<td align=""><a href="https://www.linkedin.com/in/errajatmalik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+<td align=""><a href="https://twitter.com/er_rajatmalik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a></td>
+<td align=""><a href="https://medium.com/@codewithrajat"><img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium"/></a></td>
+<td align=""><a href="https://dev.to/codewithrajat"><img src="https://img.shields.io/badge/Dev.to-FFFFFF?style=for-the-badge&logo=devdotto&logoColor=000000" alt="Dev.to"/></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://codewithrajat.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a></td>
-<td align="center"><a href="https://hashnode.com/@codeswithrajat"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a></td>
-<td align="center"><a href="https://rajatmalik.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a></td>
-<td align="center"><a href="https://github.com/malikrajat"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a></td>
+<td align=""><a href="https://codewithrajat.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a></td>
+<td align=""><a href="https://hashnode.com/@codeswithrajat"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a></td>
+<td align=""><a href="https://rajatmalik.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a></td>
+<td align=""><a href="https://github.com/malikrajat"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a></td>
 </tr>
 </table>
 
@@ -477,7 +477,9 @@ Subscribe to my newsletter [The Angular Insider](https://www.linkedin.com/newsle
 
 ## Get in touch
 
-<table width="100%">
+<div align="center">
+
+<table align="center" width="100%">
 <tr>
 <td width="33%" align="center">
 
@@ -514,6 +516,8 @@ Subscribe to my newsletter [The Angular Insider](https://www.linkedin.com/newsle
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
